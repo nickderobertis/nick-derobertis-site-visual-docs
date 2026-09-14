@@ -1,0 +1,275 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "desktop"
+      },
+      "hash": "3fff989ec4d635ea064ed0735ab42ab86950f65773ba5bee087d3dabf10ab46b",
+      "image": "standalone/happy/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "tablet"
+      },
+      "hash": "7c6714fcda16b7f9dc316bb801fbcfe6789add0586485a02d67b241454c3cc87",
+      "image": "standalone/happy/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "mobile"
+      },
+      "hash": "988eca0717085fa15e05984f9d1673a7c9e87be1a915f64e177d367501a66f0b",
+      "image": "standalone/happy/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "desktop"
+      },
+      "hash": "a2abf5ba15f0dd0a4c9b870438c3e4005bbb288529bb177405eb4136acd742f5",
+      "image": "host-composed/happy/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "tablet"
+      },
+      "hash": "1c2ddc374727a011850f6cc4d91cec59b5fa436438ca6ed6daadd62bbfa27710",
+      "image": "host-composed/happy/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "mobile"
+      },
+      "hash": "24aee6bad55eecdcefcf9bfd8c398a792ab71a3d40021f19a789473bef408a9c",
+      "image": "host-composed/happy/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "all",
+        "viewport": "desktop"
+      },
+      "hash": "de9ff8a0d2cc8e17da5d081e15da5f0db5aadcba66bc17f8e7771c62efc669b3",
+      "image": "standalone/all/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "all",
+        "viewport": "desktop"
+      },
+      "hash": "1aae1f16561242191a0cb3de8bd03b9bd9a035f110598663747d41c09be96800",
+      "image": "host-composed/all/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "desktop"
+      },
+      "hash": "8a8b52c5a1cec20342daadf651b9b015e812d354826c910055a01a835956c6c8",
+      "image": "standalone/empty/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "desktop"
+      },
+      "hash": "4996ac8c27a3b120e3dbed01da2c9b80b6ed2ee70a14dfd6d94e66d36cc3e81f",
+      "image": "host-composed/empty/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "desktop"
+      },
+      "hash": "9adb3b72a382b66f0dd851e81588c5b51f1f6e7b337d0f1336f14eb7da2a34a4",
+      "image": "standalone/loading/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "desktop"
+      },
+      "hash": "0244e035a0a018928397ac29cb87529c9fc54f8ee420461e83324f02476f7c83",
+      "image": "standalone/error/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "desktop"
+      },
+      "hash": "3f6c2a0ea7c53e0b8493603ce7ba0a87b4ad7b5c9efeb006dfe2d7f6ba6c1bd2",
+      "image": "host-composed/error/desktop.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "all",
+        "viewport": "tablet"
+      },
+      "hash": "6f7f6ba5e9ef6e3cd1841001474f340b0ab8b26836313f34ea3875910a203ca2",
+      "image": "standalone/all/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "all",
+        "viewport": "mobile"
+      },
+      "hash": "9e60e6de5a0fc04a857c5ab9645695a5f46055fa96e60addf9898e5f4a25c073",
+      "image": "standalone/all/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "all",
+        "viewport": "tablet"
+      },
+      "hash": "d201be29286be8fe2b526c3a69c5b6346eb30911d172c268ca13f911544897c1",
+      "image": "host-composed/all/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "all",
+        "viewport": "mobile"
+      },
+      "hash": "d7fc3f9ad609ca612031fc6578c10733c5e817a28d9866027cd0970903ceed86",
+      "image": "host-composed/all/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "tablet"
+      },
+      "hash": "8c139fc8070f21661b9f661e240519baccac38bca8002160970d13d120968bee",
+      "image": "standalone/empty/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "mobile"
+      },
+      "hash": "4f61dba3f2362ba8ff7c2605cb29ff0431adac5edcc1d4f49da22ccef2b1f254",
+      "image": "standalone/empty/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "tablet"
+      },
+      "hash": "ceb03493c80ebdb3b6a6ab5ac965632aacce8d74c176fe224d7f0ddf1f6fff00",
+      "image": "host-composed/empty/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "mobile"
+      },
+      "hash": "c1814822ca83ac621f769f4728ac2ad9f247b1439f450cc9a58773f46355f553",
+      "image": "host-composed/empty/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "tablet"
+      },
+      "hash": "45c54f3119bf1116b0f7a917463e8c87852eb394c5a0a862f46272ccc8b5cf52",
+      "image": "standalone/loading/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "mobile"
+      },
+      "hash": "3f7c639a80000000aa9063159ff24c75daf56e3b77d85056252636d8652933b9",
+      "image": "standalone/loading/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "tablet"
+      },
+      "hash": "4741df79578688155930ad7297f7a94fdf2e003215a9abfadaeec7df8ca874db",
+      "image": "standalone/error/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "mobile"
+      },
+      "hash": "5367de33ebc83ed9d8c543dc6722ac8847b31e54df89945d999e08a8f2e3bf77",
+      "image": "standalone/error/mobile.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "tablet"
+      },
+      "hash": "a1aff82750cd793e0ff6e0b0b5a7a178f5e22cfe10e8d8dd81b86d0c7aac939a",
+      "image": "host-composed/error/tablet.png"
+    },
+    {
+      "name": "awards",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "mobile"
+      },
+      "hash": "52bc50dcb1e66c5357faecfda5cbbfa0dca1ba4c06651cbade1c1787e11f75ed",
+      "image": "host-composed/error/mobile.png"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "desktop"
+      },
+      "hash": "31801dfb9e122c8c50ce7f00b9a6cae5eae6fc98e39f1e7d0eb45d16de2ed759",
+      "image": "standalone/happy/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "tablet"
+      },
+      "hash": "52dee528b1d4c7575c12bd564546f6e7668f6c45e165c0009a6af1ed31f31ebf",
+      "image": "standalone/happy/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "happy",
+        "viewport": "mobile"
+      },
+      "hash": "3f31130a0abaa34cf7786b73b2f65d1cb4c55ba242ac1d7d9f5e58bf00f6e941",
+      "image": "standalone/happy/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "desktop"
+      },
+      "hash": "1e521d33f8d43e8efe24ae61ae95c7f2bb07a023c46fdde27608a486c9698172",
+      "image": "host-composed/happy/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "tablet"
+      },
+      "hash": "ff7e8a892fbbaae15b8384ed5ccca48ddb54e9378eed46f7b119c903da0a440d",
+      "image": "host-composed/happy/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "happy",
+        "viewport": "mobile"
+      },
+      "hash": "7a376f4bd53247c91ee76c231845fae39b75da2e80547fc3c9820e1762622cdf",
+      "image": "host-composed/happy/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "desktop"
+      },
+      "hash": "7be3d5a757f0d33d8f8c951f279aaf0723363a8f932b1c3570e281a8fa1a7d19",
+      "image": "standalone/empty/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "desktop"
+      },
+      "hash": "0e7e0b49b0a84bff63aecaf0181d721cb8d9566316b10d1076126d21d75435a7",
+      "image": "host-composed/empty/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "desktop"
+      },
+      "hash": "1e857bd0c664ecca1639ed3a21823df4955fee2e73c5a5de0c67fc9d85b47443",
+      "image": "standalone/loading/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "desktop"
+      },
+      "hash": "21dd72cc7460e29a34998c733da8568a8b3c182e928db5ed7a789d3029de82c5",
+      "image": "standalone/error/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "desktop"
+      },
+      "hash": "63a3eafd2bd138182bcb4246bad7d2069c9854cb52a7a8cdf035b3f484808c26",
+      "image": "host-composed/error/desktop.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "tablet"
+      },
+      "hash": "1021e88305413617cbd79ff63a7dfce8302dabf3bda6d70b94174476fa4833df",
+      "image": "standalone/empty/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "empty",
+        "viewport": "mobile"
+      },
+      "hash": "bee8046a237446a4394ab280ce4346a6659bc0012a757f004de673b5eb4bfe79",
+      "image": "standalone/empty/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "tablet"
+      },
+      "hash": "1021e88305413617cbd79ff63a7dfce8302dabf3bda6d70b94174476fa4833df",
+      "image": "host-composed/empty/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "empty",
+        "viewport": "mobile"
+      },
+      "hash": "1ac7d2a7d31018bc7643485a192ad86838b6df95d26eb5ae444b3911c13dd07d",
+      "image": "host-composed/empty/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "tablet"
+      },
+      "hash": "abf42ad4c6992d8f50dbc1b0e9456b6234f68692ab28d0884f788f4a38632331",
+      "image": "standalone/loading/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "loading",
+        "viewport": "mobile"
+      },
+      "hash": "067eb6635bff9f3127946c33f396f81abf4c62e7677f8078ed8746b9528c13d0",
+      "image": "standalone/loading/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "tablet"
+      },
+      "hash": "f51b64a9631eac4bde96e7c9c36ca49fa782aa9b8123121080cbdfe3fdc8a5ac",
+      "image": "standalone/error/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "standalone",
+        "state": "error",
+        "viewport": "mobile"
+      },
+      "hash": "a4c8ab87666930c195a6cc167e03fbcd1a8cef3c925d778dd090dbb836805321",
+      "image": "standalone/error/mobile.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "tablet"
+      },
+      "hash": "f51b64a9631eac4bde96e7c9c36ca49fa782aa9b8123121080cbdfe3fdc8a5ac",
+      "image": "host-composed/error/tablet.png"
+    },
+    {
+      "name": "home",
+      "toggles": {
+        "render": "host-composed",
+        "state": "error",
+        "viewport": "mobile"
+      },
+      "hash": "418bef97c36231233ad43cc6cd4530052a1ab973e8659acea3c2a1b51a5b6a0f",
+      "image": "host-composed/error/mobile.png"
+    }
+  ]
+}
